@@ -1,6 +1,6 @@
 ## Australia ##
 
-### News ###
+### _News_ ###
 [news.com.au] (https://www.news.com.au/)
 
 [BBC] (https://www.bbc.com/news/world/australia)
@@ -15,7 +15,7 @@
 
 [smh.com.au] (https://www.smh.com.au/)
 
-### References ###
+### _References_ ###
 [Wiki] (https://en.wikipedia.org/wiki/Australia)
 
 [World fact book] (https://www.cia.gov/library/publications/the-world-factbook/geos/as.html)
