@@ -1,19 +1,15 @@
 ## Bhutan ##
 
-- Needs news sources
-
-- Needs references
-
 ### _News_ ###
-[]()
+[Daily Bhutan](https://www.dailybhutan.com/)
 
-[]()
+[News 18](https://www.news18.com/newstopics/bhutan.html)
 
-[]()
+[Hindustan Times](https://www.hindustantimes.com/topic/bhutan)
 
-[]()
+[Zee News](https://zeenews.india.com/tags/Bhutan.html)
 
-[]()
+[The Bhutanese](https://thebhutanese.bt/category/news/)
 
 []()
 
@@ -22,8 +18,10 @@
 []()
 
 ### _References_ ###
-[Wiki](XXXX)
+[Wiki](https://en.wikipedia.org/wiki/Bhutan)
 
-[World fact book](XXXX)
+[World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/bt.html)
 
-[State department](XXXX)
+[State department](https://www.state.gov/countries-areas/bhutan/)
+
+[BBC Country Profile](https://www.bbc.com/news/world-south-asia-12480707)
