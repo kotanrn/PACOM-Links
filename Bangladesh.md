@@ -1,15 +1,21 @@
 ## Bangladesh ##
 
 ### _News_ ###
-[ ]Needs news sources
+[BD News](https://bdnews24.com/)
 
-[]()
+[Daily Star](https://www.thedailystar.net/)
 
-[]()
+[BBC](https://www.bbc.com/news/topics/c77jz3md7grt/bangladesh)
 
-[]()
+[The Independent](https://www.independent.co.uk/topic/Bangladesh)
 
-[]()
+[Jago News](https://www.jagonews24.com/en)
+
+[Rising BD](https://www.risingbd.com/english/)
+
+[Bangla News](https://www.banglanews24.com/english/)
+
+[BD Journal](https://www.bd-journal.com/english)
 
 []()
 
