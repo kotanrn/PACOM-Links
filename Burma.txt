@@ -1,11 +1,31 @@
-*** News ***
+## Burma ##
 
+- Needs news sources
 
-*** Wiki ***
-https://en.wikipedia.org/wiki/Myanmar
+- Needs references
 
-*** World fact book ***
-https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html
+### _News_ ###
+[ ]Needs news sources
 
-*** State department ***
-https://www.state.gov/countries-areas/burma/
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+### _References_ ###
+[Wiki](XXXX)
+
+[World fact book](XXXX)
+
+[State department](XXXX)
