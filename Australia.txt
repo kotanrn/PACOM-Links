@@ -1,23 +1,23 @@
-*** News ***
-https://www.news.com.au/
+## Australia ##
 
-https://www.bbc.com/news/world/australia
+### News ###
+[news.com.au] (https://www.news.com.au/)
 
-https://www.theguardian.com/australia-news
+[BBC] (https://www.bbc.com/news/world/australia)
 
-https://www.cnn.com/australia
+[The Guardian] (https://www.theguardian.com/australia-news)
 
-https://www.abc.net.au/news/
+[CNN] (https://www.cnn.com/australia)
 
-https://www.foxnews.com/category/world/world-regions/australia
+[Australia Broadcasting] (https://www.abc.net.au/news/)
 
-https://www.smh.com.au/
+[FoxNews] (https://www.foxnews.com/category/world/world-regions/australia)
 
-*** Wiki ***
-https://en.wikipedia.org/wiki/Australia
+[smh.com.au] (https://www.smh.com.au/)
 
-*** World fact book ***
-https://www.cia.gov/library/publications/the-world-factbook/geos/as.html
+### References ###
+[Wiki] (https://en.wikipedia.org/wiki/Australia)
 
-*** State department ***
-https://www.state.gov/countries-areas/australia/
+[World fact book] (https://www.cia.gov/library/publications/the-world-factbook/geos/as.html)
+
+[State department] (https://www.state.gov/countries-areas/australia/)
