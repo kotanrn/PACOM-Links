@@ -1,30 +1,32 @@
 ## Thailand ##
 
-- Needs news sources
-
-- Needs references
-
 ### _News_ ###
 
-[]()
+[The Thaiger](https://thethaiger.com/news/national)
 
-[]()
+[BBC](https://www.bbc.com/news/topics/c77jz3md4vdt/thailand)
 
-[]()
+[Nation Thailand](https://www.nationthailand.com/)
 
-[]()
+[Independent](https://www.independent.co.uk/topic/Thailand?CMP=ILC-refresh)
 
-[]()
+[Bangkok Jack](https://bangkokjack.com/pattaya-news/)
 
-[]()
+[The Phuket News](https://www.thephuketnews.com/news-thailand.php)
+
+[Thai Examiner](https://www.thaiexaminer.com/)
+
+[Thai Enquirer](https://www.thaienquirer.com/)
+
+[The Pattaya News](https://thepattayanews.com/)
 
 []()
 
 []()
 
 ### _References_ ###
-[Wiki](XXXX)
+[Wiki](https://en.wikipedia.org/wiki/Thailand)
 
-[World fact book](XXXX)
+[World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/th.html)
 
-[State department](XXXX)
+[State department](https://www.state.gov/countries-areas/thailand/)
