@@ -1,9 +1,5 @@
 ## Marshall Islands ##
 
-- Needs news sources
-
-- Needs references
-
 ### _News_ ###
 
 [Marshall Islands Journal](https://marshallislandsjournal.com/)
