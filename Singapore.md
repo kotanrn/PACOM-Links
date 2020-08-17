@@ -1,20 +1,16 @@
 ## Singapore ##
 
-- Needs news sources
-
-- Needs references
-
 ### _News_ ###
 
-[]()
+[Channel News Asia](https://www.channelnewsasia.com/news/singapore)
 
-[]()
+[Straits Times](https://www.straitstimes.com/singapore)
 
-[]()
+[Asia One](https://www.asiaone.com/singapore#gsc.tab=0)
 
-[]()
+[The New Paper](https://www.tnp.sg/news/singapore)
 
-[]()
+[Today Online](https://www.todayonline.com/singapore)
 
 []()
 
@@ -23,8 +19,8 @@
 []()
 
 ### _References_ ###
-[Wiki](XXXX)
+[Wiki](https://en.wikipedia.org/wiki/Singapore)
 
-[World fact book](XXXX)
+[World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/sn.html)
 
-[State department](XXXX)
+[State department](https://www.state.gov/countries-areas/singapore/)
