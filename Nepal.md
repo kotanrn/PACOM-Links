@@ -1,20 +1,14 @@
 ## Nepal ##
 
-- Needs news sources
-
-- Needs references
-
 ### _News_ ###
 
-[]()
+[BBC](https://www.bbc.com/news/topics/cvenzmgyld1t/nepal)
 
-[]()
+[News 18](https://www.news18.com/newstopics/nepal.html)
 
-[]()
+[Nepal Dailiy Live](https://www.nepaldailylive.com/)
 
-[]()
-
-[]()
+[Nepali Sansar](https://www.nepalisansar.com/news/)
 
 []()
 
@@ -23,8 +17,8 @@
 []()
 
 ### _References_ ###
-[Wiki](XXXX)
+[Wiki](https://en.wikipedia.org/wiki/Nepal)
 
-[World fact book](XXXX)
+[World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/np.html)
 
-[State department](XXXX)
+[State department](https://www.state.gov/countries-areas/nepal/)
