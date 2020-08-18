@@ -1,6 +1,8 @@
 ## Burma ##
 
 ### _News_ ###
+[Al Jazeera](https://www.aljazeera.com/topics/country/myanmar.html)
+
 [The Irrawaddy](https://www.irrawaddy.com/)
 
 [The Guardian](https://www.theguardian.com/world/myanmar)
@@ -10,8 +12,6 @@
 [Mizzima](http://www.mizzima.com/)
 
 [NY Times](https://www.nytimes.com/topic/destination/myanmar)
-
-[Al Jazeera](https://www.aljazeera.com/topics/country/myanmar.html)
 
 [BNI Online](https://www.bnionline.net/en)
 
