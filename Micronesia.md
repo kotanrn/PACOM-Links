@@ -24,3 +24,5 @@
 [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/fm.html)
 
 [State department](https://www.state.gov/countries-areas/micronesia/)
+
+[BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15494620)
