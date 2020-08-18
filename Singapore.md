@@ -24,3 +24,5 @@
 [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/sn.html)
 
 [State department](https://www.state.gov/countries-areas/singapore/)
+
+[BBC Country Profile](https://www.bbc.com/news/world-asia-15961759)
