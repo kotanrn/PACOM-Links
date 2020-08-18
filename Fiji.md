@@ -1,6 +1,9 @@
 ## Fiji ##
 
 ### _News_ ###
+[RT](https://www.rt.com/tags/fiji-news/)
+
+[Al Jazeera](https://www.aljazeera.com/topics/country/fiji.html)
 
 [Fiji Village](https://fijivillage.com/news/)
 
