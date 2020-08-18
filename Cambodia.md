@@ -1,6 +1,11 @@
 ## Cambodia ##
 
 ### _News_ ###
+[Al Jazeera](https://www.aljazeera.com/topics/country/cambodia.html)
+
+[BBC](https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia)
+
+[CNN](http://edition.cnn.com/SPECIALS/cambodia/)
 
 [Cam News](http://www.camnews.org/topics/cambodia-news/)
 
