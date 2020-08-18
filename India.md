@@ -28,3 +28,5 @@
 [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/in.html)
 
 [State department](https://www.state.gov/countries-areas/india/)
+
+[BBC Country Profile](https://www.bbc.com/news/world-south-asia-12557384)
