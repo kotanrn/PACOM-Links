@@ -32,3 +32,5 @@
 [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/ks.html)
 
 [State department](https://www.state.gov/countries-areas/south-korea/)
+
+[BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15289563)
