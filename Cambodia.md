@@ -32,3 +32,5 @@
 [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/cb.html)
 
 [State department](https://www.state.gov/countries-areas/cambodia/)
+
+[BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-13006539)
