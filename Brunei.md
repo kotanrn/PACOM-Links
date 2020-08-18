@@ -6,7 +6,7 @@
 | [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/cmj34zmwxzlt/brunei) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/brunei.html) |
-| [~~RT~~]() | [~~NY Times~~]() | |
+| [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
 
 ### _News: Local Sources_ ###
 |   |   |   |
