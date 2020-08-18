@@ -6,8 +6,7 @@
 | [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/cx1m7zg0g7nt/marshall-islands) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
-| [~~RT~~]() | 
-[NY Times](https://www.nytimes.com/topic/destination/marshall-islands) | [~~Telegraph~~]() |
+| [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/marshall-islands) | [~~Telegraph~~]() |
 
 ### _News: Local Sources_ ###
 |   |   |   |
