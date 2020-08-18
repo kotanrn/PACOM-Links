@@ -1,13 +1,17 @@
 ## Australia ##
 
 ### _News_ ###
-[news.com.au](https://www.news.com.au/)
+[RT](https://www.rt.com/tags/australia/)
+
+[Al Jazeera](https://www.aljazeera.com/topics/country/australia.html)
 
 [BBC](https://www.bbc.com/news/world/australia)
 
+[CNN](https://www.cnn.com/australia)
+
 [The Guardian](https://www.theguardian.com/australia-news)
 
-[CNN](https://www.cnn.com/australia)
+[news.com.au](https://www.news.com.au/)
 
 [Australia Broadcasting](https://www.abc.net.au/news/)
 
