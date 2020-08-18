@@ -24,3 +24,5 @@
 [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/nz.html)
 
 [State department](https://www.state.gov/countries-areas/new-zealand/)
+
+[BBC Country Profile](https://www.bbc.co.uk/news/world-asia-pacific-15357770)
