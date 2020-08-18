@@ -1,6 +1,10 @@
 ## Bhutan ##
 
 ### _News_ ###
+[Al Jazeera](https://www.aljazeera.com/topics/country/bhutan.html)
+
+[BBC](https://www.bbc.com/news/topics/c77jz3mdm7nt/bhutan)
+
 [Daily Bhutan](https://www.dailybhutan.com/)
 
 [News 18](https://www.news18.com/newstopics/bhutan.html)
