@@ -28,3 +28,5 @@
 [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/fj.html)
 
 [State department](https://www.state.gov/countries-areas/fiji/)
+
+[BBC Country Profile](https://www.bbc.co.uk/news/world-asia-pacific-14919067)
