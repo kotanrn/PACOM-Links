@@ -1,11 +1,15 @@
 ## Bangladesh ##
 
 ### _News_ ###
+[RT](https://www.rt.com/tags/bangladesh-news/)
+
+[Al Jazeera](https://www.aljazeera.com/topics/country/bangladesh.html)
+
+[BBC](https://www.bbc.com/news/topics/c77jz3md7grt/bangladesh)
+
 [BD News](https://bdnews24.com/)
 
 [Daily Star](https://www.thedailystar.net/)
-
-[BBC](https://www.bbc.com/news/topics/c77jz3md7grt/bangladesh)
 
 [The Independent](https://www.independent.co.uk/topic/Bangladesh)
 
