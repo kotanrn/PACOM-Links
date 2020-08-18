@@ -30,3 +30,5 @@
 [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/th.html)
 
 [State department](https://www.state.gov/countries-areas/thailand/)
+
+[BBC Country Profile](https://www.bbc.co.uk/news/world-asia-15581957)
