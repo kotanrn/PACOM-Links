@@ -6,7 +6,7 @@
 | [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/c77jz3md7grt/bangladesh) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [The Independent](https://www.independent.co.uk/topic/Bangladesh) | [Al Jazeera](https://www.aljazeera.com/topics/country/bangladesh.html) |
-| [RT](https://www.rt.com/tags/bangladesh-news/) | | |
+| [RT](https://www.rt.com/tags/bangladesh-news/) | [~~NY Times~~]() | |
 
 ### _News: Local Sources_ ###
 |   |   |   |
