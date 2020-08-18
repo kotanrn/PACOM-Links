@@ -31,3 +31,5 @@
 [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/bm.html)
 
 [State department](https://www.state.gov/countries-areas/burma/)
+
+[BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-12990563)
