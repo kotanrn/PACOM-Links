@@ -30,3 +30,5 @@
 [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/nr.html)
 
 [State department](https://www.state.gov/countries-areas/nauru/)
+
+[BBC Country Profile](https://www.bbc.co.uk/news/world-asia-pacific-15433616)
