@@ -6,7 +6,7 @@
 | [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/c77jz3mdm7nt/bhutan) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/bhutan.html) |
-| [~~RT~~]() | | |
+| [~~RT~~]() | [~~NY Times~~]() | |
 
 ### _News: Local Sources_ ###
 |   |   |   |
