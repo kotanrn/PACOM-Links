@@ -27,3 +27,5 @@
 [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/my.html)
 
 [State department](https://www.state.gov/countries-areas/malaysia/)
+
+[BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15356257)
