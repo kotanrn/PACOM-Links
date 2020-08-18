@@ -1,9 +1,11 @@
 ## Brunei ##
 
 ### _News_ ###
-[Brunei News](https://www.bruneinews.net/)
+[Al Jazeera](https://www.aljazeera.com/topics/country/brunei.html)
 
 [BBC](https://www.bbc.com/news/topics/cmj34zmwxzlt/brunei)
+
+[Brunei News](https://www.bruneinews.net/)
 
 [Straits Times](https://www.straitstimes.com/tags/brunei)
 
