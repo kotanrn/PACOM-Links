@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/SolomonIslands) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/cwlw3xz0145t/solomon-islands) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
