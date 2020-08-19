@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Maldives) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [The Guardian](https://www.theguardian.com/world/maldives)  | [Independent](https://www.independent.co.uk/topic/Maldives?CMP=ILC-refresh) | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/maldives) | [~~Telegraph~~]() |
