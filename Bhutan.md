@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Bhutan) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/c77jz3mdm7nt/bhutan) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/bhutan.html) |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
