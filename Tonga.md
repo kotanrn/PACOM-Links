@@ -6,8 +6,7 @@
 | [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
-| [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/tonga)
- | [~~Telegraph~~]() |
+| [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/tonga) | [~~Telegraph~~]() |
 |  |  |  |
 
 ### _News: Local Sources_ ###
