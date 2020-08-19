@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Philippines) | [~~Reuters~~]() |
 | [~~BBC~~]() | [CNN](https://cnnphilippines.com/news/) | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
