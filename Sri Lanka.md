@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/SriLanka) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/cywd23g0gxgt/sri-lanka) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/sri-lanka.html) |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
