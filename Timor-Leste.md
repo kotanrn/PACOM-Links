@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/EastTimor) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [The Guardian](https://www.theguardian.com/world/timor-leste)  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/east-timor.html) |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
