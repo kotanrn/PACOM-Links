@@ -1,4 +1,4 @@
-## Timor-Leste ##
+## Timor-Leste \(AKA East Timor\) ##
 
 ### _News: International Sources_ ###
 |   |   |   |
