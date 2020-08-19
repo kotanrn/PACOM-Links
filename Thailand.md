@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Thailand) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/c77jz3md4vdt/thailand) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [The Independent](https://www.independent.co.uk/topic/Thailand?CMP=ILC-refresh) | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
