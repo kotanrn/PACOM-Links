@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/PapuaNewGuinea) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [The Guardian](https://www.theguardian.com/world/papua-new-guinea) | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/papua-new-guinea.html) |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
