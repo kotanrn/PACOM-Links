@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Singapore) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
