@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Malaysia) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/malaysia.html) |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
