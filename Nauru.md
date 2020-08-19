@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Nauru) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [The Guardian](https://www.theguardian.com/world/nauru)  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/nauru.html) |
 | [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/nauru) | [~~Telegraph~~]() |
