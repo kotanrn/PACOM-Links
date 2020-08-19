@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/China) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/world/asia/china) | [CNN](https://www.cnn.com/china) | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/china.html) |
 | [RT](https://www.rt.com/tags/china/) | [~~NY Times~~]() | [Telegraph](https://www.telegraph.co.uk/china/) |
