@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Kiribati) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/cp7r8vglg15t/kiribati) | [~~CNN~~]() | [~~Fox News~~]() |
 | [The Guardian](https://www.theguardian.com/world/kiribati)  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
