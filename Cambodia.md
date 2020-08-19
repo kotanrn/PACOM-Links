@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Cambodia) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/c8nq32jwj8mt/cambodia) | [CNN](http://edition.cnn.com/SPECIALS/cambodia/) | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [The Independent](https://www.independent.co.uk/topic/Cambodia) | [Al Jazeera](https://www.aljazeera.com/topics/country/cambodia.html) |
 | [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/cambodia) | [~~Telegraph~~]() |
