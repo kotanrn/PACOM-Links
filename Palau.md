@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Palau) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [The Guardian](https://www.theguardian.com/world/palau)  | [Independent](https://www.independent.co.uk/topic/palau) | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/palau) | [Telegraph](https://www.telegraph.co.uk/news/worldnews/australiaandthepacific/palau/) |
