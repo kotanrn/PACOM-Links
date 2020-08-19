@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America \(VOA\)](https://www.voanews.com/search?search_api_fulltext=Vietnam&type=1&sort_by=publication_time) | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [Voice of America \(VOA\)](https://www.voanews.com/search?search_api_fulltext=Vietnam&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Vietnam) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/c207p54m4n2t/vietnam) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
