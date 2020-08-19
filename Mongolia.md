@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Mongolia) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/cjnwl8q4qm2t/mongolia) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [Independent](https://www.independent.co.uk/topic/Mongolia) | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
