@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/MarshallIslands) | [~~Reuters~~]() |
 | [BBC](https://www.bbc.com/news/topics/cx1m7zg0g7nt/marshall-islands) | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/marshall-islands) | [~~Telegraph~~]() |
