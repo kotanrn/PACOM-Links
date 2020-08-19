@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/AmericanSamoa) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [Independent](https://www.independent.co.uk/topic/Samoa) | [~~Al Jazeera~~]() |
 | [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
