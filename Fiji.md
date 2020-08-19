@@ -3,7 +3,7 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [~~Associated Press~~]() | [~~Reuters~~]() |
+| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Fiji) | [~~Reuters~~]() |
 | [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
 | [~~The Guardian~~]()  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/fiji.html) |
 | [RT](https://www.rt.com/tags/fiji-news/) | [NY Times](https://www.nytimes.com/topic/destination/fiji) | [~~Telegraph~~]() |
