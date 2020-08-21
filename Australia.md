@@ -19,4 +19,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Australia) | [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/as.html) | [State department](https://www.state.gov/countries-areas/australia/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-15674351) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-15674351) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Australia) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=australia) |
