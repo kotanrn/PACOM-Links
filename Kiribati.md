@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Kiribati) | [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/kr.html) | [State department](https://www.state.gov/countries-areas/kiribati/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-16431122) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-16431122) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Kiribati) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Kiribati) |
