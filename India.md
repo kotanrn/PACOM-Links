@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/India) | [~~Reuters~~]() |
-| [BBC](https://www.bbc.com/news/world/asia/india) | [CNN](https://www.cnn.com/india) | [~~Fox News~~]() |
-| [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
-| [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=India&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/India) | [Reuters](https://www.reuters.com/places/India) |
+| [BBC](https://www.bbc.com/news/world/asia/india) | [CNN](https://www.cnn.com/india) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/India)  | [Independent](https://www.independent.co.uk/topic/India) | [~~Al Jazeera~~]() |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/India) | [Telegraph](https://www.telegraph.co.uk/India/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
