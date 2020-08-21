@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Vanuatu) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/nh.html) | [State department](https://www.state.gov/countries-areas/vanuatu/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-16426193) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Tuvalu) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Tuvalu) |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-16426193) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Vanuatu) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Vanuatu) |
