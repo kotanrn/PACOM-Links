@@ -21,4 +21,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Thailand) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/th.html) | [State department](https://www.state.gov/countries-areas/thailand/) |
-| [BBC Country Profile](https://www.bbc.co.uk/news/world-asia-15581957) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.co.uk/news/world-asia-15581957) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Thailand) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Thailand) |
