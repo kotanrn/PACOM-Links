@@ -19,4 +19,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Marshall_Islands) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/rm.html) | [State department](https://www.state.gov/countries-areas/marshall-islands/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-15595431) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-15595431) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Marshall_Islands) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Marshall+Islands) |
