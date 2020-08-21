@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/PapuaNewGuinea) | [~~Reuters~~]() |
-| [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
-| [The Guardian](https://www.theguardian.com/world/papua-new-guinea) | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/papua-new-guinea.html) |
-| [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Papua New Guinea&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/PapuaNewGuinea) | [Reuters](https://www.reuters.com/places/Papua New Guinea) |
+| [~~BBC~~]() | [CNN](https://www.cnn.com/search/?q=Papua New Guinea&size=10&type=article) | [~~Fox News~~]() |
+| [The Guardian](https://www.theguardian.com/world/papua-new-guinea) | [Independent](https://www.independent.co.uk/topic/Papua New Guinea) | [Al Jazeera](https://www.aljazeera.com/topics/country/papua-new-guinea.html) |
+| [~~RT~~]() | [NY Times](https://www.nytimes.com/section/world/Papua New Guinea) | [Telegraph](https://www.telegraph.co.uk/Papua New Guinea/) |
 | [Australia Brodcasting](https://www.abc.net.au/news/topic/papua-new-guinea) |  |  |
 
 ### _News: Local Sources_ ###
