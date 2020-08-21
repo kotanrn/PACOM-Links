@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Samoa) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/ws.html) | [State department](https://www.state.gov/countries-areas/samoa/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-15655855) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-15655855) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Samoa) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Samoa) |
