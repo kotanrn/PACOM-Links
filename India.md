@@ -19,4 +19,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/India) | [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/in.html) | [State department](https://www.state.gov/countries-areas/india/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-south-asia-12557384) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-south-asia-12557384) | [Intellipedia](https://intellipedia.intelink.gov/wiki/India) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=India) |
