@@ -4,7 +4,7 @@
 |   |   |   |
 | --- | --- | --- |
 | [Voice of America](https://www.voanews.com/search?search_api_fulltext=Bangladesh&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Bangladesh) | [Reuters](https://www.reuters.com/places/Bangladesh) |
-| [BBC](https://www.bbc.com/news/topics/c77jz3md7grt/bangladesh) | [CNN](https://www.cnn.com/search/?q=Bangladesh&size=10&type=article) | ~~Fox News (NSTR)~~ |
+| [BBC](https://www.bbc.com/news/topics/c77jz3md7grt/bangladesh) | [CNN](https://www.cnn.com/search/?q=Bangladesh&size=10&type=article) | ~~Fox News~~ |
 | [The Guardian](https://www.theguardian.com/world/Bangladesh)  | [The Independent](https://www.independent.co.uk/topic/Bangladesh) | [Al Jazeera](https://www.aljazeera.com/topics/country/bangladesh.html) |
 | [RT](https://www.rt.com/tags/bangladesh-news/) | [NY Times](https://www.nytimes.com/section/world/Bangladesh) | [Telegraph](https://www.telegraph.co.uk/Bangladesh/) |
 
