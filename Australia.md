@@ -6,7 +6,7 @@
 | [Voice of America](https://www.voanews.com/search?search_api_fulltext=Australia&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Australia) | [Reuters](https://www.reuters.com/places/Australia) |
 | [BBC](https://www.bbc.com/news/world/australia) | [CNN](https://www.cnn.com/australia) | [FoxNews](https://www.foxnews.com/category/world/world-regions/australia) |
 | [The Guardian](https://www.theguardian.com/australia-news)  | [Independent](https://www.independent.co.uk/topic/Australia) | [Al Jazeera](https://www.aljazeera.com/topics/country/australia.html) |
-| [RT](https://www.rt.com/tags/australia/) | [NY Times](https://www.nytimes.com/section/world/Australia) | [Telegraph](https://www.telegraph.co.uk/$$$$/) |
+| [RT](https://www.rt.com/tags/australia/) | [NY Times](https://www.nytimes.com/section/world/Australia) | [Telegraph](https://www.telegraph.co.uk/Australia/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
