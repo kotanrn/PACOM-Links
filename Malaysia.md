@@ -19,4 +19,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Malaysia) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/my.html) | [State department](https://www.state.gov/countries-areas/malaysia/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15356257) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15356257) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Malaysia) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Malaysia) |
