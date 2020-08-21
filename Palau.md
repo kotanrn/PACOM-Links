@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Palau) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/ps.html) | [State department](https://www.state.gov/countries-areas/palau/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-middle-east-15446659) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-middle-east-15446659) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Palau) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Palau) |
