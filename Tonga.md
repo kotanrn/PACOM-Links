@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Tonga) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/tn.html) | [State department](https://www.state.gov/countries-areas/tonga/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-16197014) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-16197014) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Tonga) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Tonga) |
