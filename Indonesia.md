@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Indonesia) | [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/id.html) | [State department](https://www.state.gov/countries-areas/indonesia/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-14921238) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-14921238) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Indonesia) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Indonesia) |
