@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/East_Timor) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/tt.html) | [State department](https://www.state.gov/countries-areas/timor-leste/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-14919009) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-14919009) | [Intellipedia](https://intellipedia.intelink.gov/wiki/East_Timor) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=East+Timor) |
