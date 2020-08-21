@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Kiribati) | [~~Reuters~~]() |
-| [BBC](https://www.bbc.com/news/topics/cp7r8vglg15t/kiribati) | [~~CNN~~]() | [~~Fox News~~]() |
-| [The Guardian](https://www.theguardian.com/world/kiribati)  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
-| [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Kiribati&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Kiribati) | [Reuters](https://www.reuters.com/places/Kiribati) |
+| [BBC](https://www.bbc.com/news/topics/cp7r8vglg15t/kiribati) | [CNN](https://www.cnn.com/search/?q=Kiribati&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/kiribati)  | [Independent](https://www.independent.co.uk/topic/Kiribati) | [Al Jazeera](https://www.aljazeera.com/topics/country/kiribati.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Kiribati) | [Telegraph](https://www.telegraph.co.uk/Kiribati/) |
 | [Washington Post](https://www.washingtonpost.com/news/theworldpost/wp/2018/10/24/kiribati/) |   |   |
 
 ### _News: Local Sources_ ###
