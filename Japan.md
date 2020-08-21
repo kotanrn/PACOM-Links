@@ -19,4 +19,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Japan) | [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html) | [State department](https://www.state.gov/countries-areas/japan/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-14918801) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-14918801) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Japan) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Japan) |
