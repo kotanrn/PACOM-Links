@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/MarshallIslands) | [~~Reuters~~]() |
-| [BBC](https://www.bbc.com/news/topics/cx1m7zg0g7nt/marshall-islands) | [~~CNN~~]() | [~~Fox News~~]() |
-| [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
-| [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/marshall-islands) | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Marshall Islands&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/MarshallIslands) | [Reuters](https://www.reuters.com/places/Marshall Islands) |
+| [BBC](https://www.bbc.com/news/topics/cx1m7zg0g7nt/marshall-islands) | [CNN](https://www.cnn.com/search/?q=Marshall Islands&size=10&type=article) | [~~Fox News~~]() |
+| [The Guardian](https://www.theguardian.com/world/Marshall Islands)  | [Independent](https://www.independent.co.uk/topic/Marshall Islands) | [Al Jazeera](https://www.aljazeera.com/topics/country/Marshall Islands.html) |
+| [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/marshall-islands) | [Telegraph](https://www.telegraph.co.uk/Marshall Islands/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
