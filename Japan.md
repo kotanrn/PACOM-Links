@@ -5,7 +5,7 @@
 | --- | --- | --- |
 | [Voice of America](https://www.voanews.com/search?search_api_fulltext=Japan&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Japan) | [Reuters](https://www.reuters.com/places/Japan) |
 | [BBC](https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan) | [CNN](https://www.cnn.com/search/?q=Japan&size=10&type=article) | ~~Fox News~~ |
-| [The Guardian](https://www.theguardian.com/world/Japan)  | [Independent](https://www.independent.co.uk/topic/Japan) | [~~Al Jazeera~~]() |
+| [The Guardian](https://www.theguardian.com/world/Japan)  | [Independent](https://www.independent.co.uk/topic/Japan) | [Al Jazeera](https://www.aljazeera.com/topics/country/Japan.html) |
 | ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Japan) | [Telegraph](https://www.telegraph.co.uk/Japan/) |
 
 ### _News: Local Sources_ ###
