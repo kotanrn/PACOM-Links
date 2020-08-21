@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Philippines) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/rp.html) | [State department](https://www.state.gov/countries-areas/philippines/) |
-| [BBC Country Profile](https://www.bbc.co.uk/news/world-asia-15521300) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.co.uk/news/world-asia-15521300) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Philippines) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Philippines) |
