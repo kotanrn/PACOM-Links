@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Laos) | [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/la.html) | [State department](https://www.state.gov/countries-areas/laos/) |
-| [BBC Country Profile]() | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.co.uk/news/world-asia-pacific-15351898) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Laos) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Laos) |
