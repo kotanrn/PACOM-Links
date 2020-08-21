@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Tuvalu) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/tv.html) | [State department](https://www.state.gov/countries-areas/tuvalu/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-16340072) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-16340072) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Tuvalu) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Tuvalu) |
