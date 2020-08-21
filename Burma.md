@@ -3,8 +3,8 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=$$$$&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Myanmar) | [Reuters](https://www.reuters.com/places/$$$$) |
-| [BBC](https://www.bbc.com/news/topics/c302m85q5vzt/myanmar) | [CNN](https://www.cnn.com/search/?q=$$$$&size=10&type=article) | ~~Fox News~~ |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Burma&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Myanmar) | [Reuters](https://www.reuters.com/places/Burma) |
+| [BBC](https://www.bbc.com/news/topics/c302m85q5vzt/myanmar) | [CNN](https://www.cnn.com/search/?q=Burma&size=10&type=article) | ~~Fox News~~ |
 | [The Guardian](https://www.theguardian.com/world/myanmar)  | [The Independent](https://www.independent.co.uk/topic/Myanmar) | [Al Jazeera](https://www.aljazeera.com/topics/country/myanmar.html) |
 | ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/myanmar) | [Telegraph](https://www.telegraph.co.uk/burma-myanmar/) |
 
