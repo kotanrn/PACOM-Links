@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Solomon_Islands) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/bp.html) | [State department](https://www.state.gov/countries-areas/solomon-islands/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-15896396) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-15896396) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Solomon_Islands) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Solomon+Islands) |
