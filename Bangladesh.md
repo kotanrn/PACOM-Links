@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Bangladesh) | [~~Reuters~~]() |
-| [BBC](https://www.bbc.com/news/topics/c77jz3md7grt/bangladesh) | [~~CNN~~]() | [~~Fox News~~]() |
-| [~~The Guardian~~]()  | [The Independent](https://www.independent.co.uk/topic/Bangladesh) | [Al Jazeera](https://www.aljazeera.com/topics/country/bangladesh.html) |
-| [RT](https://www.rt.com/tags/bangladesh-news/) | [~~NY Times~~]() | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Bangladesh&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Bangladesh) | [Reuters](https://www.reuters.com/places/Bangladesh) |
+| [BBC](https://www.bbc.com/news/topics/c77jz3md7grt/bangladesh) | [CNN](https://www.cnn.com/search/?q=Bangladesh&size=10&type=article) | ~~Fox News (NSTR)~~ |
+| [The Guardian](https://www.theguardian.com/world/Bangladesh)  | [The Independent](https://www.independent.co.uk/topic/Bangladesh) | [Al Jazeera](https://www.aljazeera.com/topics/country/bangladesh.html) |
+| [RT](https://www.rt.com/tags/bangladesh-news/) | [NY Times](https://www.nytimes.com/section/world/Bangladesh) | [Telegraph](https://www.telegraph.co.uk/Bangladesh/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
