@@ -20,7 +20,7 @@
 |   |   |   |
 | --- | --- | --- |
 | [~~Wiki~~]() | [~~World fact book~~]() | [~~State department~~]() |
-| [~~BBC Country Profile~~]() | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [~~BBC Country Profile~~]() | [~~Intellipedia~~]() | [~~IntelDocs~~]() |
 
 
 
