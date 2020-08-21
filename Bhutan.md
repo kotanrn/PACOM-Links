@@ -19,4 +19,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Bhutan) | [World fact book](https://www.cia.gov/library/publications/the-world-factbook/geos/bt.html) | [State department](https://www.state.gov/countries-areas/bhutan/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-south-asia-12480707) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-south-asia-12480707) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Bhutan) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Bhutan) |
