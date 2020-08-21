@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Vietnam) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/vm.html) | [State department](https://www.state.gov/countries-areas/vietnam/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-16567315) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-16567315) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Vietnam) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Vietnam) |
