@@ -20,4 +20,4 @@
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Maldives) | 
 [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/mv.html) | [State department](https://www.state.gov/countries-areas/maldives/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-south-asia-12651486) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-south-asia-12651486) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Maldives) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Maldives) |
