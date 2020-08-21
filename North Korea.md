@@ -20,4 +20,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/North_Korea) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/kn.html) | [State department](https://www.state.gov/countries-areas/north-korea/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15256929) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15256929) | [Intellipedia](https://intellipedia.intelink.gov/wiki/North_Korea) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=North+Korea) |
