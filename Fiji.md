@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Fiji) | [~~Reuters~~]() |
-| [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
-| [~~The Guardian~~]()  | [~~The Independent~~]() | [Al Jazeera](https://www.aljazeera.com/topics/country/fiji.html) |
-| [RT](https://www.rt.com/tags/fiji-news/) | [NY Times](https://www.nytimes.com/topic/destination/fiji) | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Fiji&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Fiji) | [Reuters](https://www.reuters.com/places/Fiji) |
+| [~~BBC~~]() | [CNN](https://www.cnn.com/search/?q=Fiji&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/Fiji)  | [Independent](https://www.independent.co.uk/topic/Fiji) | [Al Jazeera](https://www.aljazeera.com/topics/country/fiji.html) |
+| [RT](https://www.rt.com/tags/fiji-news/) | [NY Times](https://www.nytimes.com/topic/destination/fiji) | [Telegraph](https://www.telegraph.co.uk/Fiji/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
