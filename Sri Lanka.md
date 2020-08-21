@@ -22,4 +22,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Sri_Lanka) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/ce.html) | [State department](https://www.state.gov/countries-areas/sri-lanka/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-south-asia-11999611) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-south-asia-11999611) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Sri_Lanka) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Sri+Lanka) |
