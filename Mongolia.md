@@ -19,4 +19,4 @@
 |   |   |   |
 | --- | --- | --- |
 | [Wiki](https://en.wikipedia.org/wiki/Mongolia) | [World fact book](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/mg.html) | [State department](https://www.state.gov/countries-areas/mongolia/) |
-| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15460525) | [~~Intellipedia~~]() | [~~NGIC~~]() |
+| [BBC Country Profile](https://www.bbc.com/news/world-asia-pacific-15460525) | [Intellipedia](https://intellipedia.intelink.gov/wiki/Mongolia) | [IntelDocs](https://inteldocs.intelink.gov/search/folder?q=Mongolia) |
