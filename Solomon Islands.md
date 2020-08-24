@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/SolomonIslands) | [~~Reuters~~]() |
-| [BBC](https://www.bbc.com/news/topics/cwlw3xz0145t/solomon-islands) | [~~CNN~~]() | [~~Fox News~~]() |
-| [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
-| [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Solomon+Islands&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/SolomonIslands) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=Solomon+Islands) |
+| [BBC](https://www.bbc.com/news/topics/cwlw3xz0145t/solomon-islands) | [CNN](https://www.cnn.com/search/?q=Solomon+Islands&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/SolomonIslands) | [Independent](https://www.independent.co.uk/topic/Solomon-Islands) | [Al Jazeera](https://www.aljazeera.com/topics/country/Solomon-Islands.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Solomon-Islands) | [Telegraph](https://www.telegraph.co.uk/Solomon-Islands/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
