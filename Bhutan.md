@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=$$$$&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Bhutan) | [Reuters](https://www.reuters.com/places/$$$$) |
-| [BBC](https://www.bbc.com/news/topics/c77jz3mdm7nt/bhutan) | [CNN](https://www.cnn.com/search/?q=$$$$&size=10&type=article) | ~~Fox News~~ |
-| [The Guardian](https://www.theguardian.com/world/$$$$)  | [Independent](https://www.independent.co.uk/topic/$$$$) | [Al Jazeera](https://www.aljazeera.com/topics/country/bhutan.html) |
-| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/$$$$) | [Telegraph](https://www.telegraph.co.uk/$$$$/) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Bhutan&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Bhutan) | ~~Reuters~~ |
+| [BBC](https://www.bbc.com/news/topics/c77jz3mdm7nt/bhutan) | [CNN](https://www.cnn.com/search/?q=Bhutan&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/bhutan)  | [Independent](https://www.independent.co.uk/topic/Bhutan) | [Al Jazeera](https://www.aljazeera.com/topics/country/bhutan.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/bhutan) | [Telegraph](https://www.telegraph.co.uk/bhutan/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
