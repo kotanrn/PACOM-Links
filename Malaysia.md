@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Malaysia&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Malaysia) | [Reuters](https://www.reuters.com/places/Malaysia) |
-| [~~BBC~~]() | [CNN](https://www.cnn.com/search/?q=Malaysia&size=10&type=article) | [~~Fox News~~]() |
-| [The Guardian](https://www.theguardian.com/world/Malaysia)  | [Independent](https://www.independent.co.uk/topic/Malaysia) | [Al Jazeera](https://www.aljazeera.com/topics/country/malaysia.html) |
-| [~~RT~~]() | [NY Times](https://www.nytimes.com/section/world/Malaysia) | [Telegraph](https://www.telegraph.co.uk/Malaysia/) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Malaysia&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Malaysia) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=malaysia) |
+| [BBC](https://www.bbc.com/news/topics/cx1m7zg0523t/malaysia) | [CNN](https://www.cnn.com/search/?q=Malaysia&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/malaysia)  | [Independent](https://www.independent.co.uk/topic/malaysia) | [Al Jazeera](https://www.aljazeera.com/topics/country/malaysia.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/malaysia?searchResultPosition=0) | [Telegraph](https://www.telegraph.co.uk/malaysia/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
