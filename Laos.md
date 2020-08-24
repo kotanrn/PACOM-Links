@@ -3,11 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Laos&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Laos) | [Reuters](https://www.reuters.com/places/Laos) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Laos&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Laos) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=laos) |
 | [BBC](https://www.bbc.com/news/topics/c302m85q5jjt/laos) | [CNN](https://www.cnn.com/search/?q=Laos&size=10&type=article) | ~~Fox News~~ |
-| [The Guardian](https://www.theguardian.com/world/laos)  | [Independent](https://www.independent.co.uk/topic/Laos) | [Al Jazeera](https://www.aljazeera.com/topics/country/laos.html) |
-| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/laos) | [Telegraph](https://www.telegraph.co.uk/Laos/) |
-| [The Independent](https://www.independent.co.uk/topic/Laos) |   |   |
+| [The Guardian](https://www.theguardian.com/world/laos)  | [Independent](https://www.independent.co.uk/topic/laos) | [Al Jazeera](https://www.aljazeera.com/topics/country/laos.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/laos) | [Telegraph](https://www.telegraph.co.uk/laos/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
