@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Singapore&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Singapore) | [Reuters](https://www.reuters.com/places/Singapore) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Singapore&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Singapore) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=singapore) |
 | [BBC](https://www.bbc.com/news/topics/c302m85qe3yt/singapore) | [CNN](https://www.cnn.com/search/?q=Singapore&size=10&type=article) | ~~Fox News~~ |
-| [The Guardian](https://www.theguardian.com/world/Singapore) | [Independent](https://www.independent.co.uk/topic/Singapore) | [Al Jazeera](https://www.aljazeera.com/topics/country/Singapore.html) |
-| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Singapore) | [Telegraph](https://www.telegraph.co.uk/Singapore/) |
+| [The Guardian](https://www.theguardian.com/world/singapore) | [Independent](https://www.independent.co.uk/topic/Singapore) | [Al Jazeera](https://www.aljazeera.com/topics/country/singapore.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/singapore?searchResultPosition=0) | [Telegraph](https://www.telegraph.co.uk/singapore/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
