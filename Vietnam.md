@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America \(VOA\)](https://www.voanews.com/search?search_api_fulltext=Vietnam&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Vietnam) | [~~Reuters~~]() |
-| [BBC](https://www.bbc.com/news/topics/c207p54m4n2t/vietnam) | [~~CNN~~]() | [~~Fox News~~]() |
-| [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
-| [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
+| [Voice of America \(VOA\)](https://www.voanews.com/search?search_api_fulltext=Vietnam&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Vietnam) | [Reuters](https://www.reuters.com/places/Vietnam) |
+| [BBC](https://www.bbc.com/news/topics/c207p54m4n2t/vietnam) | [CNN](https://www.cnn.com/search/?q=Vietnam&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/Vietnam) | [Independent](https://www.independent.co.uk/topic/Vietnam) | [Al Jazeera](https://www.aljazeera.com/topics/country/Vietnam.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Vietnam) | [Telegraph](https://www.telegraph.co.uk/Vietnam/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
