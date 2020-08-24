@@ -5,8 +5,8 @@
 | --- | --- | --- |
 | [Voice of America](https://www.voanews.com/search?search_api_fulltext=Sri+Lanka&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/SriLanka) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=Sri+Lanka) |
 | [BBC](https://www.bbc.com/news/topics/cywd23g0gxgt/sri-lanka) | [CNN](https://www.cnn.com/search/?q=Sri+Lanka&size=10&type=article) | ~~Fox News~~ |
-| [The Guardian](https://www.theguardian.com/world/Sri-Lanka) | [Independent](https://www.independent.co.uk/topic/Sri-Lanka) | [Al Jazeera](https://www.aljazeera.com/topics/country/sri-lanka.html) |
-| [RT](https://www.rt.com/tags/sri-lanka-news/) | [NY Times](https://www.nytimes.com/section/world/Sri-Lanka) | [Telegraph](https://www.telegraph.co.uk/sri-lanka-asia/) |
+| [The Guardian](https://www.theguardian.com/world/srilanka) | [Independent](https://www.independent.co.uk/topic/SriLanka) | [Al Jazeera](https://www.aljazeera.com/topics/country/sri-lanka.html) |
+| [RT](https://www.rt.com/tags/sri-lanka-news/) | [NY Times](https://www.nytimes.com/topic/destination/sri-lanka?searchResultPosition=0) | [Telegraph](https://www.telegraph.co.uk/sri-lanka-asia/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
