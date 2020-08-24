@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Philippines&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Philippines) | [Reuters](https://www.reuters.com/places/Philippines) |
-| [~~BBC~~]() | [CNN](https://cnnphilippines.com/news/) | [~~Fox News~~]() |
-| [The Guardian](https://www.theguardian.com/world/Philippines)  | [Independent](https://www.independent.co.uk/topic/Philippines) | [Al Jazeera](https://www.aljazeera.com/topics/country/Philippines.html) |
-| [~~RT~~]() | [NY Times](https://www.nytimes.com/section/world/Philippines) | [Telegraph](https://www.telegraph.co.uk/Philippines/) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Philippines&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Philippines) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=philippines) |
+| [BBC](https://www.bbc.com/news/topics/cnx753je2r4t/philippines) | [CNN](https://cnnphilippines.com/news/) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/philippines)  | [Independent](https://www.independent.co.uk/topic/philippines) | [Al Jazeera](https://www.aljazeera.com/topics/country/philippines.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/search?query=philippines) | [Telegraph](https://www.telegraph.co.uk/philippines/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
