@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Palau&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Palau) | [Reuters](https://www.reuters.com/places/Palau) |
-| [~~BBC~~]() | [CNN](https://www.cnn.com/search/?q=Palau&size=10&type=article) | [~~Fox News~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Palau&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Palau) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=palau) |
+| [BBC](https://www.bbc.com/news/topics/cx1m7zg0wz8t/palau) | [CNN](https://www.cnn.com/search/?q=Palau&size=10&type=article) | ~~Fox News~~ |
 | [The Guardian](https://www.theguardian.com/world/palau)  | [Independent](https://www.independent.co.uk/topic/palau) | [Al Jazeera](https://www.aljazeera.com/topics/country/Palau.html) |
-| [~~RT~~]() | [NY Times](https://www.nytimes.com/topic/destination/palau) | [Telegraph](https://www.telegraph.co.uk/news/worldnews/australiaandthepacific/palau/) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/palau) | [Telegraph](https://www.telegraph.co.uk/news/worldnews/australiaandthepacific/palau/) |
 | [AM Embassy](https://pw.usembassy.gov/news-events/) |  |  |
 
 ### _News: Local Sources_ ###
