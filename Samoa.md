@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/AmericanSamoa) | [~~Reuters~~]() |
-| [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
-| [~~The Guardian~~]()  | [Independent](https://www.independent.co.uk/topic/Samoa) | [~~Al Jazeera~~]() |
-| [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Samoa&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/AmericanSamoa) | [Reuters](https://www.reuters.com/places/Samoa) |
+| [BBC](https://www.bbc.com/news/topics/cg41ylwvwlpt/samoa) | [CNN](https://www.cnn.com/search/?q=Samoa&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/Samoa) | [Independent](https://www.independent.co.uk/topic/Samoa) | [Al Jazeera](https://www.aljazeera.com/topics/country/Samoa.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Samoa) | [Telegraph](https://www.telegraph.co.uk/Samoa/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
