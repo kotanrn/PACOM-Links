@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Nepal&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/hub/Nepal) | [Reuters](https://www.reuters.com/places/Nepal) |
-| [BBC](https://www.bbc.com/news/topics/cvenzmgyld1t/nepal) | [CNN](https://www.cnn.com/search/?q=Nepal&size=10&type=article) | [~~Fox News~~]() |
-| [The Guardian](https://www.theguardian.com/world/Nepal)  | [Independent](https://www.independent.co.uk/topic/Nepal) | [Al Jazeera](https://www.aljazeera.com/topics/country/Nepal.html) |
-| [~~RT~~]() | [NY Times](https://www.nytimes.com/section/world/Nepal) | [Telegraph](https://www.telegraph.co.uk/Nepal/) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Nepal&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Nepal) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=nepal) |
+| [BBC](https://www.bbc.com/news/topics/cvenzmgyld1t/nepal) | [CNN](https://www.cnn.com/search/?q=Nepal&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/nepal)  | [Independent](https://www.independent.co.uk/topic/nepal) | [Al Jazeera](https://www.aljazeera.com/topics/country/Nepal.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/nepal?searchResultPosition=0) | [Telegraph](https://www.telegraph.co.uk/nepal/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
