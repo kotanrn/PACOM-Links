@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Japan&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Japan) | [Reuters](https://www.reuters.com/places/Japan) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Japan&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Japan) | [Reuters](https://www.reuters.com/places/japan) |
 | [BBC](https://www.bbc.com/news/topics/cjnwl8q4g7nt/japan) | [CNN](https://www.cnn.com/search/?q=Japan&size=10&type=article) | ~~Fox News~~ |
-| [The Guardian](https://www.theguardian.com/world/Japan)  | [Independent](https://www.independent.co.uk/topic/Japan) | [Al Jazeera](https://www.aljazeera.com/topics/country/Japan.html) |
-| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Japan) | [Telegraph](https://www.telegraph.co.uk/Japan/) |
+| [The Guardian](https://www.theguardian.com/world/japan)  | [Independent](https://www.independent.co.uk/topic/japan) | [Al Jazeera](https://www.aljazeera.com/topics/country/Japan.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/japan?searchResultPosition=0) | [Telegraph](https://www.telegraph.co.uk/japan/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
