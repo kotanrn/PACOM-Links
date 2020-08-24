@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [~~Voice of America~~]() | [Associated Press](https://apnews.com/Singapore) | [~~Reuters~~]() |
-| [~~BBC~~]() | [~~CNN~~]() | [~~Fox News~~]() |
-| [~~The Guardian~~]()  | [~~The Independent~~]() | [~~Al Jazeera~~]() |
-| [~~RT~~]() | [~~NY Times~~]() | [~~Telegraph~~]() |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Singapore&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Singapore) | [Reuters](https://www.reuters.com/places/Singapore) |
+| [BBC](https://www.bbc.com/news/topics/c302m85qe3yt/singapore) | [CNN](https://www.cnn.com/search/?q=Singapore&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/Singapore) | [Independent](https://www.independent.co.uk/topic/Singapore) | [Al Jazeera](https://www.aljazeera.com/topics/country/Singapore.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Singapore) | [Telegraph](https://www.telegraph.co.uk/Singapore/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
