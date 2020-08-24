@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Tuvalu&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Tuvalu) | [Reuters](https://www.reuters.com/places/Tuvalu) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=Tuvalu&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/Tuvalu) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=tuvalu) |
 | [BBC](https://www.bbc.com/news/topics/cq23pdgvgg2t/tuvalu) | [CNN](https://www.cnn.com/search/?q=Tuvalu&size=10&type=article) | ~~Fox News~~ |
 | [The Guardian](https://www.theguardian.com/world/tuvalu) | [Independent](https://www.independent.co.uk/topic/tuvalu) | [Al Jazeera](https://www.aljazeera.com/topics/country/Tuvalu.html) |
-| ~~RT~~ | [NY Times](https://www.nytimes.com/section/world/Tuvalu) | [Telegraph](https://www.telegraph.co.uk/Tuvalu/) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/tuvalu?searchResultPosition=0) | [Telegraph](https://www.telegraph.co.uk/tuvalu/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
