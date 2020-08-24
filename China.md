@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=China&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/China) | [Reuters](https://www.reuters.com/places/China) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=China&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/China) | [Reuters](https://www.reuters.com/places/china) |
 | [BBC](https://www.bbc.com/news/world/asia/china) | [CNN](https://www.cnn.com/china) | ~~Fox News~~ |
-| [The Guardian](https://www.theguardian.com/world/China)  | [Independent](https://www.independent.co.uk/topic/China) | [Al Jazeera](https://www.aljazeera.com/topics/country/china.html) |
-| [RT](https://www.rt.com/tags/china/) | [NY Times](https://www.nytimes.com/section/world/China) | [Telegraph](https://www.telegraph.co.uk/china/) |
+| [The Guardian](https://www.theguardian.com/world/china)  | [Independent](https://www.independent.co.uk/topic/China) | [Al Jazeera](https://www.aljazeera.com/topics/country/china.html) |
+| [RT](https://www.rt.com/tags/china/) | [NY Times](https://www.nytimes.com/search?query=china) | [Telegraph](https://www.telegraph.co.uk/china/) |
 
 ### _News: Local Sources_ ###
 |   |   |   |
