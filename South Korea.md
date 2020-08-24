@@ -6,7 +6,7 @@
 | [Voice of America](https://www.voanews.com/search?search_api_fulltext=South+Korea&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/SouthKorea) | [Reuters](https://www.reuters.com/news/archive/southKorea) |
 | [BBC](https://www.bbc.com/news/topics/cnx753jej1xt/south-korea) | [CNN](https://www.cnn.com/search/?q=South+Korea&size=10&type=article) | [Fox News](https://www.foxnews.com/search-results/search?q=South%20Korea) |
 | [The Guardian](https://www.theguardian.com/world/south-korea)  | [Independent](https://www.independent.co.uk/topic/SouthKorea) | [Al Jazeera](https://www.aljazeera.com/topics/country/south-korea.html) |
-| [RT](https://www.rt.com/tags/south-korea/) | [NY Times](https://www.nytimes.com/section/world/South-Korea) | [Telegraph](https://www.telegraph.co.uk/South-Korea/) |
+| [RT](https://www.rt.com/tags/south-korea/) | [NY Times](https://www.nytimes.com/topic/destination/south-korea?searchResultPosition=0) | [Telegraph](https://www.telegraph.co.uk/south-korea/) |
 |  |  |  |
 
 ### _News: Local Sources_ ###
