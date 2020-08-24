@@ -3,10 +3,10 @@
 ### _News: International Sources_ ###
 |   |   |   |
 | --- | --- | --- |
-| [Voice of America](https://www.voanews.com/search?search_api_fulltext=New Zealand&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/NewZealand) | [Reuters](https://www.reuters.com/places/New Zealand) |
-| [BBC](https://www.bbc.com/news/topics/cz4pr2gd8v2t/new-zealand) | [CNN](https://www.cnn.com/search/?q=New Zealand&size=10&type=article) | [~~Fox News~~]() |
-| [The Guardian](https://www.theguardian.com/world/New Zealand)  | [Independent](https://www.independent.co.uk/topic/New Zealand) | [Al Jazeera](https://www.aljazeera.com/topics/country/New Zealand.html) |
-| [~~RT~~]() | [NY Times](https://www.nytimes.com/section/world/New Zealand) | [Telegraph](https://www.telegraph.co.uk/New Zealand/) |
+| [Voice of America](https://www.voanews.com/search?search_api_fulltext=New+Zealand&type=1&sort_by=publication_time) | [Associated Press](https://apnews.com/NewZealand) | [Reuters](https://www.reuters.com/search/news?sortBy=&dateRange=&blob=New+Zealand) |
+| [BBC](https://www.bbc.com/news/topics/cz4pr2gd8v2t/new-zealand) | [CNN](https://www.cnn.com/search/?q=New+Zealand&size=10&type=article) | ~~Fox News~~ |
+| [The Guardian](https://www.theguardian.com/world/newzealand)  | [Independent](https://www.independent.co.uk/topic/NewZealand) | [Al Jazeera](https://www.aljazeera.com/topics/country/New-Zealand.html) |
+| ~~RT~~ | [NY Times](https://www.nytimes.com/topic/destination/new-zealand?searchResultPosition=0) | [Telegraph](https://www.telegraph.co.uk/new-zealand/) |
 | [Daily Mail](https://www.dailymail.co.uk/news/new_zealand/index.html) |  |  |
 
 ### _News: Local Sources_ ###
