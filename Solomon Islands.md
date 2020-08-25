@@ -15,6 +15,13 @@
 | [Solomon Star News](https://solomonstarnews.com/) | [Solomon Times](https://www.solomontimes.com/news/latest) | [News 18](https://www.news18.com/newstopics/solomon-islands.html) |
 | [Australia Broadcasting](https://www.abc.net.au/news/topic/solomon-islands) | [The Island Sun](https://theislandsun.com.sb/) |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
