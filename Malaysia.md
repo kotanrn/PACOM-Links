@@ -14,6 +14,13 @@
 | [The Star](https://www.thestar.com.my/) |[Malay Mail](https://www.malaymail.com/news/malaysia)  | [Asaia One](https://www.asiaone.com/malaysia#gsc.tab=0) |
 | [Straits Times](https://www.straitstimes.com/tags/malaysia) | [Free Malaysia Today](https://www.freemalaysiatoday.com/category/category/nation/) |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| [Academy of Sciences Malaysia](http://www.akademisains.gov.my/) | [Institute for Democracy and Economic Affairs](http://www.ideas.org.my/) | [Institute for Pioneering of Education and Economic Excellence](http://inspire.org.my/) |
+| [Jeffrey Cheah Institute on Southeast Asia](https://www.jci.edu.my) | [Malaysian Industry-Government Group for High Technology](http://www.might.org.my/) | [Third World Network](http://www.twn.my/) |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
