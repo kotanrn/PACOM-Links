@@ -15,6 +15,13 @@
 | [Channel News Asia](https://www.channelnewsasia.com/news/singapore) | [Straits Times](https://www.straitstimes.com/singapore) | [Asia One](https://www.asiaone.com/singapore#gsc.tab=0) |
 |[The New Paper](https://www.tnp.sg/news/singapore)  | [Today Online](https://www.todayonline.com/singapore) |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| [Singapore Institute of International Affairs](http://www.siiaonline.org/) | [ISEAS–Yusof Ishak Institute](https://www.iseas.edu.sg/) | [S. Rajaratnam School of International Studies](http://www.rsis.edu.sg/) |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
