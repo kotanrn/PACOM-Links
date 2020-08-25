@@ -14,6 +14,13 @@
 | [Sun](https://en.sun.mv/) | [Avas](https://avas.mv/en) | [News18](https://www.news18.com/newstopics/maldives.html) |
 | [Indian Express](https://indianexpress.com/about/maldives/) |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
