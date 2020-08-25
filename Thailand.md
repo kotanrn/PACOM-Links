@@ -16,6 +16,13 @@
 | [The Phuket News](https://www.thephuketnews.com/news-thailand.php) | [Thai Examiner](https://www.thaiexaminer.com/) | [Thai Enquirer](https://www.thaienquirer.com/) |
 | [The Pattaya News](https://thepattayanews.com/) |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
