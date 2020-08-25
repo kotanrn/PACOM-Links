@@ -15,6 +15,13 @@
 | [Government News](https://www.palaugov.pw/news/) | [Urdu Point](https://www.urdupoint.com/en/latest-news/koror.html) | [India Times](https://economictimes.indiatimes.com/topic/Palau/news) |
 |  |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
