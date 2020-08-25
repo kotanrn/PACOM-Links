@@ -14,8 +14,14 @@
 | --- | --- | --- |
 | [Infolanka](http://www.infolanka.com/news/) | [Daily Mirror](http://www.dailymirror.lk/) | [News First](https://www.newsfirst.lk/latest-news/) |
 | [Government News](https://www.news.lk/) | [ND TV](https://www.ndtv.com/world-news/sri-lanka-to-delay-august-1-re-opening-of-colombo-international-airport-2253530) | [Daily News](https://www.dailynews.lk/) |
-| 
-[Lanka C News](https://lankacnews.com/news/) |  |  |
+| [Lanka C News](https://lankacnews.com/news/) |  |  |
+
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
 
 
 ### _References_ ###
