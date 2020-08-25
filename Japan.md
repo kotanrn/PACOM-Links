@@ -14,6 +14,13 @@
 | [Japan Today](https://japantoday.com/) | [The Japan News](https://the-japan-news.com/) | [Japan Times](https://www.japantimes.co.jp/news/) |
 | [Kyodo News](https://english.kyodonews.net/news/japan) |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
