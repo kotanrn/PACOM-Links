@@ -15,6 +15,13 @@
 | [Straits Times](https://www.straitstimes.com/tags/timor-leste) | [Timor Leste Travel News](https://www.timorleste.tl/news/) |  |
 |  |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
