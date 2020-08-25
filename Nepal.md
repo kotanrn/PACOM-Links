@@ -15,6 +15,13 @@
 | [News 18](https://www.news18.com/newstopics/nepal.html) | [Nepal Dailiy Live](https://www.nepaldailylive.com/) | [Nepali Sansar](https://www.nepalisansar.com/news/) |
 |  |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
