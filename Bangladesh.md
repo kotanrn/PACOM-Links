@@ -14,6 +14,12 @@
 | [BD News](https://bdnews24.com/) | [Daily Star](https://www.thedailystar.net/) | [Jago News](https://www.jagonews24.com/en) |
 | [Rising BD](https://www.risingbd.com/english/) | [Bangla News](https://www.banglanews24.com/english/) | [BD Journal](https://www.bd-journal.com/english) |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| [Centre for Policy Dialogue](https://cpd.org.bd/) | [Bangladesh Institute of Development Studies](https://bids.org.bd/page/researches/?status=completed) | [Bangladesh Institute of Law and International Affairs](http://www.biliabd.org/) |
+| [International Growth Centre](http://www.theigc.org/) |[]()  | []() |
+| []() | []() | []() |
 
 ### _References_ ###
 |   |   |   |
