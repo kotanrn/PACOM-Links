@@ -15,6 +15,13 @@
 | [NZ Herald](https://www.nzherald.co.nz/) | [TV NZ](https://www.tvnz.co.nz/one-news/new-zealand) | [New Zealand News](https://www.newzealandnews.net/) |
 |  |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| [Centre for Strategic Studies New Zealand](https://web.archive.org/web/20131204113137/http://www.victoria.ac.nz/hppi/centres/strategic-studies) | [New Zealand Institute of Economic Research](http://www.nzier.org.nz/) | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
