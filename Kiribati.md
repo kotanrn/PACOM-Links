@@ -15,6 +15,13 @@
 | [Kiribati Updates](https://kiribatiupdates.com.ki/) | [NDTV](https://www.ndtv.com/topic/kiribati) | [Kiribati Newstar](https://kiribatinewstar.com/) |
 | [Kiribati Homeland News](https://www.tassaace01.com/) |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
