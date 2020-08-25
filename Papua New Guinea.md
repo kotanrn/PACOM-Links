@@ -15,6 +15,13 @@
 | [Post Courier](https://postcourier.com.pg/) | [9 News](https://www.9news.com.au/papua-new-guinea) | [PNG Today](https://news.pngfacts.com/) |
 |  |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
