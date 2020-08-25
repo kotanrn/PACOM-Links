@@ -14,6 +14,12 @@
 | [Daily Bhutan](https://www.dailybhutan.com/) | [News 18](https://www.news18.com/newstopics/bhutan.html) | [Hindustan Times](https://www.hindustantimes.com/topic/bhutan) |
 | [Zee News](https://zeenews.india.com/tags/Bhutan.html) | [The Bhutanese](https://thebhutanese.bt/category/news/) |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
 
 ### _References_ ###
 |   |   |   |
