@@ -14,6 +14,13 @@
 | [Laos News](https://www.laosnews.net/) | [Vientiane Times](http://www.vientianetimes.com/Headlines.html) |  |
 |  |  |  |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| None found yet []() | []() | []() |
+| []() | []() | []() |
+| []() | []() | []() |
+
 
 ### _References_ ###
 |   |   |   |
