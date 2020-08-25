@@ -14,6 +14,13 @@
 | [Times of India](https://timesofindia.indiatimes.com/india) | [NDTV](https://www.ndtv.com/india) | [Indian Express](https://indianexpress.com/section/india/) |
 | [Hindustan Times](https://www.hindustantimes.com/india-news/) | [India Today](https://www.indiatoday.in/india) | [Zee News](https://zeenews.india.com/india) |
 
+### _OSINT: Think Tanks_ ###
+|  |  |  |
+| --- | --- | --- |
+| [Association for Democratic Reforms](https://adrindia.org/) | [Centre for Asian Strategic Studies-India](http://www.asiastudies.org/) | [Centre for Air Power Studies (India)](http://capsindia.org/) |
+| []() | []() | []() |
+| []() | []() | [Wiki list of Indian think tanks](https://en.wikipedia.org/wiki/List_of_think_tanks_in_India) |
+
 
 ### _References_ ###
 |   |   |   |
