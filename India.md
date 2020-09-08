@@ -18,7 +18,7 @@
 |  |  |  |
 | --- | --- | --- |
 | [Association for Democratic Reforms](https://adrindia.org/) | [Centre for Asian Strategic Studies-India](http://www.asiastudies.org/) | [Centre for Air Power Studies (India)](http://capsindia.org/) |
-| []() | []() | []() |
+| [Center for Strategic & International Studies \(CSIS\)](https://www.csis.org/regions/asia/india) | []() | []() |
 | []() | []() | [Wiki list of Indian think tanks](https://en.wikipedia.org/wiki/List_of_think_tanks_in_India) |
 
 
