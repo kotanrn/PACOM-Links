@@ -17,7 +17,7 @@
 ### _OSINT: Think Tanks_ ###
 |  |  |  |
 | --- | --- | --- |
-| None found yet []() | []() | []() |
+| [Center for Strategic & International Studies \(CSIS\)](https://www.csis.org/regions/asia/japan) | []() | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 
