@@ -18,7 +18,7 @@
 |  |  |  |
 | --- | --- | --- |
 | [Australian Institute of Policy & Science](https://www.aspi.org.au/search?topics=39&topic=China) | [Development Research Center of the State Council](http://www.drc.gov.cn/) | [China Center for International Economic Exchanges](http://english.cciee.org.cn/) |
-| []() | []() | []() |
+| [Center for Strategic & International Studies \(CSIS\)](https://www.csis.org/regions/asia/china) | []() | []() |
 | []() | []() | []() |
 
 
