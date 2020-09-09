@@ -18,7 +18,7 @@
 ### _OSINT: Think Tanks_ ###
 |  |  |  |
 | --- | --- | --- |
-| [Centre for Strategic Studies New Zealand](https://web.archive.org/web/20131204113137/http://www.victoria.ac.nz/hppi/centres/strategic-studies) | [New Zealand Institute of Economic Research](http://www.nzier.org.nz/) | []() |
+| [Center for Strategic Studies New Zealand](https://www.csis.org/regions/asia/australia-new-zealand-pacific) | [New Zealand Institute of Economic Research](http://www.nzier.org.nz/) | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 
