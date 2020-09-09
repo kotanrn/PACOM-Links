@@ -17,7 +17,7 @@
 ### _OSINT: Think Tanks_ ###
 |  |  |  |
 | --- | --- | --- |
-| [Australian Institute of Policy and Science](https://www.aspi.org.au/search) | []() | []() |
+| [Australian Institute of Policy and Science](https://www.aspi.org.au/search) | [Center for Strategic & International Studies \(CSIS\)](https://www.csis.org/regions/asia/australia-new-zealand-pacific) | []() |
 | []() | []() | []() |
 | []() | []() | []() |
 
