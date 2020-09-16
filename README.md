@@ -4,7 +4,7 @@ Links for various news, reference, and other open sources based on country or to
 
 | North East Asia (5) | South Asia (6) | South East Asia (11) | Oceania (14) |
 | --- | --- | --- | --- |
-| [China](https://github.com/kotanrn/PACOM-Links/blob/master/News/China.md) | [Bangladesh](https://github.com/kotanrn/PACOM-Links/blob/master/News/Bangladesh.md) | [Brunei](https://github.com/kotanrn/PACOM-Links/blob/master/News/Brunei.md) | [Australia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Australia.md) |
+| [China](News/China.md) | [Bangladesh](https://github.com/kotanrn/PACOM-Links/blob/master/News/Bangladesh.md) | [Brunei](https://github.com/kotanrn/PACOM-Links/blob/master/News/Brunei.md) | [Australia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Australia.md) |
 | [Japan](https://github.com/kotanrn/PACOM-Links/blob/master/News/Japan.md) | [Bhutan](https://github.com/kotanrn/PACOM-Links/blob/master/News/Bhutan.md) | [Burma](https://github.com/kotanrn/PACOM-Links/blob/master/News/Burma.md) | [Fiji](https://github.com/kotanrn/PACOM-Links/blob/master/News/Fiji.md) |
 | [Mongolia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Mongolia.md) | [India](https://github.com/kotanrn/PACOM-Links/blob/master/News/India.md) | [Cambodia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Cambodia.md) | [Kiribati](https://github.com/kotanrn/PACOM-Links/blob/master/News/Kiribati.md) |
 | [North Korea](https://github.com/kotanrn/PACOM-Links/blob/master/News/North%20Korea.md) | [Maldives](https://github.com/kotanrn/PACOM-Links/blob/master/News/Maldives.md) | [Indonesia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Indonesia.md) | [Marshall Islands](https://github.com/kotanrn/PACOM-Links/blob/master/News/Marshall%20Islands.md) |
