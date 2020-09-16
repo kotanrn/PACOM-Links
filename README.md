@@ -21,3 +21,18 @@ Links for various news, reference, and other open sources based on country or to
 
 
 
+
+
+
+
+# PACOM HQ stuff:
+
+https://photos.state.gov/libraries/adana/19452/pdfs/uspacom.pdf
+
+https://en.wikipedia.org/wiki/United_States_Indo-Pacific_Command
+
+https://breakingdefense.com/tag/pacom/
+
+https://www.dsca.mil/tags/pacom
+
+https://www.pacom.mil/Media/News/
