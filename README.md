@@ -4,20 +4,20 @@ Links for various news, reference, and other open sources based on country or to
 
 | North East Asia (5) | South Asia (6) | South East Asia (11) | Oceania (14) |
 | --- | --- | --- | --- |
-| [China](News/China.md) | [Bangladesh](https://github.com/kotanrn/PACOM-Links/blob/master/News/Bangladesh.md) | [Brunei](https://github.com/kotanrn/PACOM-Links/blob/master/News/Brunei.md) | [Australia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Australia.md) |
-| [Japan](https://github.com/kotanrn/PACOM-Links/blob/master/News/Japan.md) | [Bhutan](https://github.com/kotanrn/PACOM-Links/blob/master/News/Bhutan.md) | [Burma](https://github.com/kotanrn/PACOM-Links/blob/master/News/Burma.md) | [Fiji](https://github.com/kotanrn/PACOM-Links/blob/master/News/Fiji.md) |
-| [Mongolia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Mongolia.md) | [India](https://github.com/kotanrn/PACOM-Links/blob/master/News/India.md) | [Cambodia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Cambodia.md) | [Kiribati](https://github.com/kotanrn/PACOM-Links/blob/master/News/Kiribati.md) |
-| [North Korea](https://github.com/kotanrn/PACOM-Links/blob/master/News/North%20Korea.md) | [Maldives](https://github.com/kotanrn/PACOM-Links/blob/master/News/Maldives.md) | [Indonesia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Indonesia.md) | [Marshall Islands](https://github.com/kotanrn/PACOM-Links/blob/master/News/Marshall%20Islands.md) |
-| [South Korea](https://github.com/kotanrn/PACOM-Links/blob/master/News/South%20Korea.md)   | [Nepal](https://github.com/kotanrn/PACOM-Links/blob/master/News/Nepal.md) | [Laos](https://github.com/kotanrn/PACOM-Links/blob/master/News/Laos.md) | [Micronesia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Micronesia.md) |
-| | [Sri Lanka](https://github.com/kotanrn/PACOM-Links/blob/master/News/Sri%20Lanka.md) | [Malaysia](https://github.com/kotanrn/PACOM-Links/blob/master/News/Malaysia.md) | [Nauru](https://github.com/kotanrn/PACOM-Links/blob/master/News/Nauru.md) |
-| | | [Philippines](https://github.com/kotanrn/PACOM-Links/blob/master/News/Philippines.md) | [New Zealand](https://github.com/kotanrn/PACOM-Links/blob/master/News/New%20Zealand.md) |
-| | | [Singapore](https://github.com/kotanrn/PACOM-Links/blob/master/News/Singapore.md) | [Palau](https://github.com/kotanrn/PACOM-Links/blob/master/News/Palau.md) |
-| | | [Thailand](https://github.com/kotanrn/PACOM-Links/blob/master/News/Thailand.md) | [Papua New Guinea](https://github.com/kotanrn/PACOM-Links/blob/master/News/Papua%20New%20Guinea.md) |
-| | | [Timor-Leste](https://github.com/kotanrn/PACOM-Links/blob/master/News/Timor-Leste.md) | [Samoa](https://github.com/kotanrn/PACOM-Links/blob/master/News/Samoa.md) |
-| | | [Vietnam](https://github.com/kotanrn/PACOM-Links/blob/master/News/Vietnam.md) | [Solomon Islands](https://github.com/kotanrn/PACOM-Links/blob/master/News/Solomon%20Islands.md) |
-| | | | [Tonga](https://github.com/kotanrn/PACOM-Links/blob/master/News/Tonga.md) |
-| | | | [Tuvalu](https://github.com/kotanrn/PACOM-Links/blob/master/News/Tuvalu.md) |
-| | | | [Vanuatu](https://github.com/kotanrn/PACOM-Links/blob/master/News/Vanuatu.md) |
+| [China](News/China.md) | [Bangladesh](News/Bangladesh.md) | [Brunei](News/Brunei.md) | [Australia](News/Australia.md) |
+| [Japan](News/Japan.md) | [Bhutan](News/Bhutan.md) | [Burma](News/Burma.md) | [Fiji](News/Fiji.md) |
+| [Mongolia](News/Mongolia.md) | [India](News/India.md) | [Cambodia](News/Cambodia.md) | [Kiribati](News/Kiribati.md) |
+| [North Korea](News/North%20Korea.md) | [Maldives](News/Maldives.md) | [Indonesia](News/Indonesia.md) | [Marshall Islands](News/Marshall%20Islands.md) |
+| [South Korea](News/South%20Korea.md)   | [Nepal](News/Nepal.md) | [Laos](News/Laos.md) | [Micronesia](News/Micronesia.md) |
+| | [Sri Lanka](News/Sri%20Lanka.md) | [Malaysia](News/Malaysia.md) | [Nauru](News/Nauru.md) |
+| | | [Philippines](News/Philippines.md) | [New Zealand](News/New%20Zealand.md) |
+| | | [Singapore](News/Singapore.md) | [Palau](News/Palau.md) |
+| | | [Thailand](News/Thailand.md) | [Papua New Guinea](News/Papua%20New%20Guinea.md) |
+| | | [Timor-Leste](News/Timor-Leste.md) | [Samoa](News/Samoa.md) |
+| | | [Vietnam](News/Vietnam.md) | [Solomon Islands](News/Solomon%20Islands.md) |
+| | | | [Tonga](News/Tonga.md) |
+| | | | [Tuvalu](News/Tuvalu.md) |
+| | | | [Vanuatu](News/Vanuatu.md) |
 
 
 
